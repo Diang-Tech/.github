@@ -1,6 +1,6 @@
 # DiAng Tech Company
 
-![DiAng Tech Logo](https://diang.tech/images/logo-light.png)
+![DiAng Tech Logo](https://diang.tech/images/logo-dark.png)
 
 ## About DiAng Tech Company
 Welcome to DiAng Tech Company! We are dedicated to transforming the business landscape with our innovative software solutions. Our mission is to empower businesses to reach their full potential through cutting-edge technology and exceptional team dynamics.
@@ -25,7 +25,7 @@ With a background at industry giants like JPMorgan and OpenGov, [Ramon] brings a
 We are always looking for talented and passionate individuals to join our team.
 
 ## Connect with Us
-- **Website:** [www.diangtech.com](https://diang.tech)
+- **Website:** [diang.tech](https://diang.tech)
 - **LinkedIn:** [DiAng Tech Company on LinkedIn](https://www.linkedin.com/company/diangtech)
 
 Thank you for visiting DiAng Tech Company's GitHub page. We look forward to connecting with you!
